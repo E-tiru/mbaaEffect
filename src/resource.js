@@ -1,7 +1,4 @@
 var res = {
-  HealTexture_png: "res/Heal_texture.png",
-  DotTexture_png: "res/Dot_texture.png",
-  particle_texture: "res/Dot_texture.png",
   chara_princessselect_10: "res/char/chara_princessselect_10.png",
   chara_princessselect_11: "res/char/chara_princessselect_11.png",
   chara_princessselect_12: "res/char/chara_princessselect_12.png",
@@ -14,22 +11,13 @@ var res = {
   chara_enemy_4: "res/char/chara_enemy_4.png",
   chara_enemy_5: "res/char/chara_enemy_5.png",
   chara_enemy_6: "res/char/chara_enemy_6.png",
-  FireTexture0_plist: "res/effect/Fire_texture0.plist",
-  FireTexture1_plist: "res/effect/Fire_texture1.plist",
-  FireTexture2_plist: "res/effect/Fire_texture2.plist",
-  FireTexture3_plist: "res/effect/Fire_texture3.plist",
-  FireTexture4_plist: "res/effect/Fire_texture4.plist",
-  WaterTexture1_plist: "res/effect/Water_texture1.plist",
-  WaterTexture2_plist: "res/effect/Water_texture2.plist",
-  WaterTexture3_plist: "res/effect/Water_texture3.plist",
-  WaterTexture4_plist: "res/effect/Water_texture4.plist",
-  WoodTexture1_plist: "res/effect/Wood_texture1.plist",
-  WoodTexture2_plist: "res/effect/Wood_texture2.plist",
-  WoodTexture3_plist: "res/effect/Wood_texture3.plist",
-  WoodTexture4_plist: "res/effect/Wood_texture4.plist",
-  HealTexture1_plist: "res/effect/Heal_texture1.plist",
-  SlipTexture1_plist: "res/effect/fire01.plist",
-
+  fire_particl1: "res/effect/fire_texture1.plist",
+  fire_particl2: "res/effect/fire_texture2.plist",
+  laser_particl1: "res/effect/laser_texture1.plist",
+  laser_particl2: "res/effect/laser_texture2.plist",
+  laser_particl3: "res/effect/laser_texture3.plist",
+  exp_particl1: "res/effect/exp_texture1.plist",
+  exp_particl2: "res/effect/exp_texture2.plist"
 };
 
 var g_resources = [];
